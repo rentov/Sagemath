@@ -1,4 +1,4 @@
-# Sagemath para el aprendizaje d ela física
+# Sagemath para el aprendizaje de la física
 Este repositorio cuenta con notebook de Sagemath, orientados a su uso en cursos de física. Se irán colocando a medida que se vayan desarrollando, siendo la posible secuencia la siguiente:
 1. Cálculos básicos: Operaciones aritméticas, expresiones algebraicas, funciones
 2. Álgebra lienal: vectores, matrices, cálculo de valores y vectores propios.
